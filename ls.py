@@ -15,3 +15,4 @@ if nn[2] > max:
     index = 'troisième'
 print("Le plus grand de ces nombre est", max)
 print("Ce nombre est le", index, "de votre liste.")
+#print("test git")
